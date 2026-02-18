@@ -24,8 +24,6 @@ char getCharValue() {
 
 int convertFloatToInt(float value) {
     // covert value to int 
-    int convertFloatToInt(int value)
-    return value;
 }
 
 /*
